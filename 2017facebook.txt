@@ -38,7 +38,6 @@ https://techcrunch.com/2017/11/16/facebook-kills-app-invites-the-native-app-like
 https://techcrunch.com/2017/11/16/facebook-creator-app/
 https://techcrunch.com/2017/11/16/facebook-google-and-others-join-the-trust-project-an-effort-to-increase-transparency-around-online-news/
 https://techcrunch.com/2017/11/15/facebook-open-sources-open-r-distributed-networking-software/
-https://techcrunch.com/2017/11/14/crunch-report-facebook-admits-russian-meddling-in-brexit/
 https://techcrunch.com/2017/11/14/facebook-says-russia-did-try-to-meddle-in-brexit-vote/
 https://techcrunch.com/2017/11/13/facebook-event-stories/
 https://techcrunch.com/2017/11/10/facebook-local/
@@ -79,7 +78,6 @@ https://techcrunch.com/2017/10/18/bad-things-happen-facebooks-response-to-russia
 https://techcrunch.com/2017/10/18/facebooks-discovery-focused-explore-feed-hits-the-desktop/
 https://techcrunch.com/2017/10/17/facebooks-consumer-hardware-chief-regina-dugan-is-leaving-the-company/
 https://techcrunch.com/2017/10/17/facebook-takes-another-bite-of-linkedin/
-https://techcrunch.com/2017/10/16/crunch-report-tbh-facebook-bought-tbh-so-snap-couldnt/
 https://techcrunch.com/2017/10/16/facebook-acquires-anonymous-teen-compliment-app-tbh-will-let-it-run/
 https://techcrunch.com/2017/10/13/facebooks-order-food-feature-officially-launches-across-the-u-s/
 https://techcrunch.com/2017/10/12/facebooks-ad-targeting-tools-could-be-a-valuable-supplement-to-census-data/
@@ -93,7 +91,6 @@ https://techcrunch.com/2017/10/05/facebook-screen-sharing/
 https://techcrunch.com/2017/10/05/facebook-article-information-button/
 https://techcrunch.com/2017/10/04/senate-intel-committee-burr-warner-facebook-ads/
 https://techcrunch.com/2017/10/03/challenge-to-data-transfer-tool-used-by-facebook-will-go-to-europes-top-court/
-https://techcrunch.com/2017/10/02/crunch-report-facebook-fixing-its-election-ads-problem/
 https://techcrunch.com/2017/10/02/facebook-lite-us-uk-canada-ireland/
 https://techcrunch.com/2017/10/02/facebook-will-hire-1000-and-make-ads-visible-to-fight-election-interference/
 https://techcrunch.com/2017/10/01/facebook-russian-ads/
@@ -163,7 +160,6 @@ https://techcrunch.com/2017/08/15/facebook-adds-ebays-daily-deals-to-its-marketp
 https://techcrunch.com/2017/08/15/facebook-camera-gifs-live/
 https://techcrunch.com/2017/08/14/facebook-is-rolling-out-a-trending-news-section-on-mobile-now-with-its-own-link/
 https://techcrunch.com/2017/08/11/facebook-buys-computer-vision-startup-focused-on-adding-objects-to-video/
-https://techcrunch.com/2017/08/10/crunch-report-facebook-launches-watch-for-original-shows/
 https://techcrunch.com/2017/08/10/facebook-password-stealing-software-comes-packed-with-a-trojan-that-steals-your-passwords/
 https://techcrunch.com/2017/08/09/facebook-watch/
 https://techcrunch.com/2017/08/09/facebook-cloaking/
@@ -199,7 +195,6 @@ https://techcrunch.com/2017/07/14/facebooks-new-explore-feed-makes-its-way-to-th
 https://techcrunch.com/2017/07/12/facebook-brings-live-to-its-spaces-vr-app/
 https://techcrunch.com/2017/07/11/facebooks-messenger-ads-are-bad-and-must-be-destroyed/
 https://techcrunch.com/2017/07/11/facebook-messenger-display-ads/
-https://techcrunch.com/2017/06/30/crunch-report-facebook-find-wi-fi/
 https://techcrunch.com/2017/06/30/facebook-spammers/
 https://techcrunch.com/2017/06/30/facebook-is-rolling-out-its-find-wi-fi-feature-worldwide/
 https://techcrunch.com/2017/06/29/facebooks-aquila-drone-completes-it-second-testflight-lands-well-this-time/
