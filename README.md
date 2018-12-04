@@ -1,10 +1,7 @@
-# dataviztry2
+# Analyzing Facebook Sentiment in TechCrunch with Stock Price
 
-1. get urls
+We welcome you to find interesting relationships between the news sentimentality and stock price of Facebook. This notebook focuses only on news articles from the popular news source TechCrunch. Sentimentality ranges from -1 (negative sentiment) to +1 (positive sentiment) and visualled encoded in color through a calendar view. Feel free to change the years to see how the stock has changed over the years! You can also click on a calendar day to display the articles published that day and navigate to the links for more information.
 
-run scraper_final.py 
-first need to run main() to get total pages of articles of the year you choose
-Here you can make 'count' variable in get_years_available() plus 100 first in order to accelerate searching process, then plus 10 each time and at last make stepsize 1 to find the exact page number we have.
+Link: https://beta.observablehq.com/@chelseazheng/untitled/7
 
-After you get the total page number, you can modify the number in the for loop in get_url()
-Then comment main(), just run collect().
+![alt text](https://github.com/wanlinxie/dataviztry2/blob/master/thumbnail.png)
